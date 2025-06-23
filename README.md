@@ -8,7 +8,7 @@
 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/ваш-логин/репозиторий.git
+git clone https://github.com/repulsiveone/tetrika_test_case
 ```
 Установить зависимости:
 ```bash
